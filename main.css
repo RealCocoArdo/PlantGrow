@@ -28,6 +28,7 @@ h3{
     }
         .rowitems{
             margin: 20px;
+            text-align: left;
         }
             .rowitems a{
                 text-decoration: none;
